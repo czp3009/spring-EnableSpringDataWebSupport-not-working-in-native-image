@@ -1,3 +1,7 @@
+# Archived
+
+issue has been fixed: https://github.com/spring-projects/spring-data-commons/issues/3117
+
 # Spring EnableSpringDataWebSupport issue reproduce demo
 
 steps:
